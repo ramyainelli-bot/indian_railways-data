@@ -1,0 +1,498 @@
+Year,S. No.,Train Number,From Station,Station To,Nature,Frequency
+2014-15,1,55613/55614,Dekargaon,Naharlagun,Passenger,Daily
+2014-15,2,55813/55814,Dekargaon,Murkongselek,Passenger,Daily
+2014-15,3,22117/22118,Guntur,Kacheguda,Double Decker Express,Bi-Weekly
+2014-15,4,56033/56034,Mannargudi,Mayiladuthurai,Passenger,Daily
+2014-15,5,22119/22120,Kacheguda,Tirupati,Double Decker Express,Bi-Weekly
+2014-15,6,22971/22972,Jaipur,Madurai,Premium Express,Weekly
+2014-15,7,16353/16354,Nagercoil,Kacheguda,Express,Weekly
+2014-15,8,53555/53556,Jasidih,Shikaripara,Passenger,Daily
+2014-15,9,13131/13132,Kolkata,Anand Vihar(T),Express,Daily
+2014-15,10,78821/78822,Gondia,Balaghat,DEMU,Daily
+2014-15,11,22461/22462,New Delhi,Katra,AC Express,Daily
+2014-15,12,56715/56716,Punalur,Kanniyakumari,Passenger,Daily
+2014-15,13,19717/19718,Jaipur,Chandigarh,Express,Daily
+2014-15,14,14713/14714,Sri ganganagar,Jammu Tawi,Express,Weekly
+2014-15,15,69133/69134,Anand,Dakor,MEMU,Daily
+2014-15,16,69135/69136,Anand,Dakor,MEMU,Daily
+2014-15,17,79449/79450,Morbi,Maliya Miyana,DEMU,Daily
+2014-15,18,14319/14320,Bareilly,Bhopal,Express,Weekly
+2014-15,19,19453/19454,Gandhidham,Puri,Express,Weekly
+2014-15,20,13063/13064,Balurghat,Howrah,Express,Daily
+2014-15,21,19203/19204,Bhavnagar,Bandra (T),Express,Weekly
+2014-15,22,51603/51604,Bina,Katni,Passenger,Daily
+2014-15,23,14221/14222,Faizabad,Kanpur Anwarganj,Express,Daily
+2014-15,24,17321/17322,Hubli,Mumbai Central,Express,Weekly
+2014-15,25,56281/56282,Bangalore,Chamarajanagar,Passenger,Daily
+2014-15,26,56921/56922,Hubli,Belgaum,Passenger,Daily
+2014-15,27,56925/56926,Bangalore,Tumkur,Passenger,Daily
+2014-15,28,76521/76522,Bangalore/ Yesvantpur,Neelamangala,DEMU,Daily
+2014-15,29,76523/76524,Yesvantpur,Hosur,DEMU,6-Days a Week
+2014-15,30,14611/14612,Amritsar,Gorakhpur,Express,Weekly
+2014-15,31,56277/56278,Chickmagalur,Yesvantpur,Passenger,Daily
+2014-15,32,16577/16578,Yesvantpur,Shivamogga Town,Express,Tri-Weekly
+2014-15,33,19401/19402,Ahmedabad,Lucknow,Express,Weekly
+2014-15,34,22939/22940,Hapa,Bilaspur,Express,Weekly
+2014-15,35,19805/19806,Kota,Udhampur,Express,Weekly
+2014-15,36,19417/19418,Ahmedabad,Allahabad,Express,Weekly
+2014-15,37,19421/19422,Ahmedabad,Patna,Express,Weekly
+2014-15,38,55819/55820,Guwahati,Mendipathar,Passenger,Daily
+2014-15,39,15117/15118,Manduadih,Jabalpur,Express,Weekly
+2014-15,40,16579/16580,Bangalore/ Yesvantpur,Shivamogga Town,Express,Bi-Weekly
+2014-15,41,16587/16588,Bikaner,Yesvantpur,Express,Bi-Weekly
+2014-15,42,22695/22696,Yesvantpur,Jaipur,Express,Weekly
+2014-15,43,22935/22936,Bandra Terminus,Palitana,Express,Weekly
+2014-15,44,11053/11054,Lokmanya Tilak (T),Azamgarh,Express,Weekly
+2014-15,45,17621/17622,Aurangabad,Renigunta,Express,Weekly
+2014-15,46,19021/19022,Bandra (Terminus),Lucknow,Express,Weekly
+2014-15,47,22933/22934,Bandra Terminus,Jaipur,Express,Weekly
+2014-15,48,11073/11074,Mumbai,Chennai Central,Express,Weekly
+2014-15,49,22913/22914,Mumbai Central,New Delhi,Premium AC Express,NA
+2014-15,50,12047/12048,New Delhi,Bhatinda,Shatabdi Express,Bi-Weekly
+2014-15,51,22115/22116,Mumbai,Karmali,AC Express,Weekly
+2014-15,52,64913/14,Delhi,Rohtak,MEMU,Daily
+2014-15,53,64915/16,Delhi,Rohtak,MEMU,Daily
+2014-15,54,16229/16230,Varanasi,Mysore,Express,Bi-Weekly
+2014-15,55,58303/58304,Sambalpur,Bhawanipatna,Passenger,Daily
+2014-15,56,22941/22942,Indore,Jammu Tawi,Express,Weekly
+2014-15,57,11111/11112,Gwalior,Gonda,Sushasan Express,Weekly
+2014-15,58,58031/58032,Tatanagar,Chakulia,Passenger,Daily
+2014-15,59,22937/22938,Rajkot,Rewa,Express,Weekly
+2014-15,60,75101/75102,Chhapra,Manduadih,DEMU,Daily
+2014-15,61,13429/13430,Malda Town,Anand Vihar(T),Express,Weekly
+2014-15,62,15529/15530,Saharsa,Anand Vihar(T),Jan Sadharan Express,Weekly
+2014-15,63,22857/22858,Santragachi,Anand Vihar(T),Express,Weekly
+2014-15,64,15531/15532,Saharsa,Amritsar,Jan Sadharan Express,Weekly
+2014-15,65,54789/54790,Bikaner,Rewari,Passenger,Daily
+2014-15,66,74017/74018,Rewari,Rohtak,DEMU,Daily
+2014-15,67,12527/12528,Kamakhya,Chennai Central,AC Express,Weekly
+2014-15,68,22443/22444,Kanpur,Bandra (T),Express,Weekly
+2014-15,69,22801/22802,Visakhapatnam,Chennai Central,Express,Weekly
+2014-15,70,12783/12784,Secunderabad,Visakhapatnam,AC Express,Weekly
+2014-15,71,17619/17620,H.S Nanded,Aurangabad,Express,Weekly
+2014-15,72,19415/19416,Ahmedabad,Katra,Express,Weekly
+2014-15,73,18111/18112,Tatanagar,Yesvantpur,Express,Weekly
+2014-15,74,22353/22354,Patna,Bangalore,Premium Express,Weekly
+2014-15,75,22503/22504,Kamakhya,Bangalore,Premium Express,Weekly
+2014-15,76,22679/22680,Yesvantpur,Katra,Express,Weekly
+2014-15,77,15559/15560,Ahmedabad,Darbhanga,Jan Sadharan Express,Weekly
+2014-15,78,19419/19420,Ahmedabad,Chennai Central,Express,Bi-Weekly
+2014-15,79,15043/15044,Lucknow,Kathgodam,Express,NA
+2014-15,80,14613/14614,Firozpur Cantt,Chandigarh,Express,Daily
+2014-15,81,15547/15548,Jaynagar,Mumbai Central,Jan Sadharan Express,Weekly
+2014-15,82,16863/16864,Mannargudi,Jodhpur,Express,Weekly
+2014-15,83,22813/22814,Paradeep,Howrah,Express,Weekly
+2014-15,84,56035/56036,Tiruchendur,Tirunelveli,Passenger,Daily
+2014-15,85,56665/56666,Byndoor,Kasargod,Passenger,Daily
+2014-15,86,58505/58506,Gunupur,Visakhapatnam,Passenger,Daily
+2014-15,87,58659/58660,Hatia,Rourkela,Passenger,Daily
+2014-15,88,11407/11408,Pune,Lucknow,Express,Weekly
+2014-15,89,12597/12598,Mumbai,Gorakhpur,Jan Sadharan Express,Weekly
+2014-15,90,11081/11082,Mumbai,Gorakhpur,Express,Weekly
+2014-15,91,15031/15032,Ramnagar,Chandigarh,Express,Weekly
+2014-15,92,22655/22656,Thiruvananthapuram,H.Nizamuddin,Express,Weekly
+2014-15,93,22809/22810,Paradeep,Visakhapatnam,Express,Weekly
+2014-15,94,18629/18630,Ranchi,New Jalpaiguri,Express,Weekly
+2014-15,95,68001/68008,Santragachi,Jhargram,MEMU,6-Days a Week
+2014-15,96,68749/68750,Anuppur,Ambikapur,MEMU,Daily
+2014-15,97,22653/22654,Thiruvananthapuram,H.Nizamuddin,Express,Weekly
+2014-15,98,11075/11076,Bidar,Mumbai Central,Express,Weekly
+2014-15,99,11207/11208,Nagpur,Rewa,Express,Weekly
+2014-15,100,17623/17624,H.S Nanded,Shri Ganganagar,Express,Weekly
+2014-15,101,15617/15618,Guwahati,Naharlagun,Donyi Polo Express,Daily
+2014-15,102,22411/22412,Naharlagun,New Delhi,AC Express,Weekly
+2014-15,103,73371/73372,Koderma,Hazaribagh Town,DEMU,Daily
+2014-15,104,73373/73374,Koderma,Hazaribagh Town,DEMU,Daily
+2014-15,105,73375/73376,Koderma,Gaya,DEMU,Bi-Weekly
+2014-15,106,64167/64168,Palwal,Aligarh,MEMU,Daily
+2014-15,107,12581/12582,New Delhi,Manduadih,Express,Daily
+2014-15,108,15053/15054,Chhapra,Lucknow,Express,NA
+2014-15,109,75103/75104,Varanasi,Ghazipur City,DEMU,Daily
+2014-15,110,14505/14506,Nangal Dam,Amritsar,Express,Daily
+2014-15,111,15057/15058,Gorakhpur,Anand Vihar(T),Express,Weekly
+2014-15,112,55069/55070,Gorakhpur,Nautanwa,Passenger,Daily
+2014-15,113,15029/15030,Gorakhpur,Pune,Express,Weekly
+2014-15,114,50101/50102,Madgaon,Ratnagiri,Passenger,Daily
+2015-16,1,12583/12584,Anand Vihar(T),Lucknow,Double Decker Express,Four days a week
+2015-16,2,82355/82356,Patna,Mumbai CST,Suvidha Express,Bi-Weekly
+2015-16,3,14503/14504,Katra,Kalka,Express,Bi-Weekly
+2015-16,4,78103/78104,Sambalpur,Rourkela,DEMU,6-Days a Week
+2015-16,5,14155/14156,Kanpur,Jammu Tawi,Express,NA
+2015-16,6,52574,Darjeeling,Ghum,Joy Ride Passenger,Daily
+2015-16,7,52575,Darjeeling,Ghum,Joy Ride Passenger,Daily
+2015-16,8,52572,Kurseong,Mahanadi,Himalayan on Wheels Passenger,Weekly
+2015-16,9,52570/52571,Darjeeling,Kurseong,Red Panda Passenger,Tri-Weekly
+2015-16,10,52573,Mahanadi,Kurseong,Himalayan on Wheels Passenger,Weekly
+2015-16,11,15055/15056,Ramnagar,Agra cantt.,Express,Weekly
+2015-16,12,74027/74028,Delhi,Baraut,DEMU,6-Days a Week
+2015-16,13,75105/75106,Mau,Allahabad City,DEMU,6-Days a Week
+2015-16,14,11031/11032,Solapur,Bijapur,Express,Bi-Weekly
+2015-16,15,74025/74026,Delhi,Shamli,DMU,6-Days a Week
+2015-16,16,74613/74614,Baramula,Banihal,DEMU,Daily
+2015-16,17,74615/74616,Baramula,Banihal,DEMU,Daily
+2015-16,18,12529/12530,Gorakhpur,New Delhi,Premium Express,5-Days a Week
+2015-16,19,58427/58428,Khurda Road,Begunia,Passenger,Daily
+2015-16,20,58429/58430,Khurda Road,Begunia,Passenger,Daily
+2015-16,21,53209/53210,Rajgir,Fatuha,Passenger,Daily
+2015-16,22,15613/15614,Guwahati,Murkongselek,Lachit Express,Daily
+2015-16,23,55429/55430,Rangapara North,Rangiya,Passenger,Daily
+2015-16,24,55823/55824,Rangapara North,Dekargaon,Passenger,Daily
+2015-16,25,55719/55720,Dekargaon,Bhalukpong,Passenger,Daily
+2015-16,26,55721/55722,Rangiya,Dekargaon,Passenger,Daily
+2015-16,27,55343/55344,Bareilly,Badaun,Passenger,Daily
+2015-16,28,55345/55346,Bareilly,Badaun,Passenger,Daily
+2015-16,29,22415/22416,Vijayawada,New Delhi,AP AC Express,Daily
+2015-16,30,19063/19064,Udhna,Danapur,Express,Bi-Weekly
+2015-16,31,14811/14812,Delhi Sarai Rohilla,Sikar,Express,Bi-Weekly
+2015-16,32,59727/59729,Loharu,Sikar,Passenger,Daily
+2015-16,33,"59728/59730,",Loharu,Sikar,Passenger,Daily
+2015-16,34,53037/53038,Sahebganj,Bhagalpur,Passenger,Daily
+2015-16,35,73037/73038,Azimganj,Nimtita,DEMU,5-Days a Week
+2015-16,36,79311/79312,Ratlam,Laxmibai Nagar,DEMU,6-Days a Week
+2015-16,37,64589/64590,Kanpur,Phaphund,MEMU,Daily
+2015-16,38,22413/22414,H. Nizamuddin,Madgaon,Rajdhani Express,Bi-Weekly
+2015-16,39,22919/22920,Ahmedabad,Delhi Sarai Rohilla,Premium Express,Tri-weekly
+2015-16,40,75111/75112,Ghazipur,Varanasi,DEMU,Daily
+2015-16,41,55615/55616,Guwahati,Silchar,Fast Passenger,Daily
+2015-16,42,11079/11080,Mumbai,Gorakhpur,Express,Weekly
+2015-16,43,75007/75008,Gorakhpur,Gonda,DEMU,Daily
+2015-16,44,55032/55049,Badshahnagar,Nakaha Jungle,Passenger,Daily
+2015-16,45,75005/75002,Gorakhpur,Barhni,Passenger,Daily
+2015-16,46,78823,Balaghat,Katangi,DEMU,Daily
+2015-16,47,11085/11086,Lokmanya Tilak (T),Madgaon,AC Double Decker Express,Tri-Weekly
+2015-16,48,71909/71910,Agra Cantt,Etawah,DEMU,Daily
+2015-16,49,17417/17418,Tirupati,Sai Nagar Shirdi,Express,Weekly
+2015-16,50,15307/15308,Aishbagh,Izzatnagar,Express,Daily
+2015-16,51,22821/22822,Howrah,Pune,Express,NA
+2015-16,52,22863/22864,Howrah,Yesvantpur,AC Express,Weekly
+2015-16,53,68687/68688,Panskura,Digha,MEMU,Daily
+2015-16,54,78009/78010,Rupsa,Bhanjpur,DEMU,6-Days a Week
+2015-16,55,12595/12596,Mumbai,Gorakhpur,Premium Express,Bi-Weekly
+2015-16,56,22127/22128,Lokmanya Tilak (T),Kazipet,Anandwan Express,Weekly
+2015-16,57,22313/22314,Katra,Howrah,Premium Express,Weekly
+2015-16,58,75113/75114,Bhatni,Varanasi City,DEMU,Daily
+2015-16,59,54821/54822,Parvatsar,Makrana,Passenger,6-Days a Week
+2015-16,60,22315/22316,Sealdah,Jodhpur,premium AC Express,Bi-Weekly
+2015-16,61,22417/22418,New Delhi,Varanasi,Mahamana Express,Tri-Weekly
+2015-16,62,38712/38715,Kharagpur,Santragachi,MEMU,6-Days a Week
+2015-16,63,18243/18244,Bilaspur,Jodhpur,Express,Bi-Weekly
+2015-16,64,78824/78825,Durg,Dalli Rajhara,DEMU,Daily
+2015-16,65,18245/18246,Bilaspur,Bikaner,Express,Bi-Weekly
+2015-16,66,75215/75216,Patliputra,Raxaul jn.,DEMU,Daily
+2015-16,67,75213/75214,Sagauli jn.,Raxaul jn.,DEMU,Daily
+2015-16,68,22839/22840,Shalimar,Chennai Central,Express,Daily
+2015-16,69,14259/14260,Mughal Sarai,Lucknow,Ekatmata Express,Weekly
+2015-16,70,58877/58878,Itwari,Naghbir Jn.,DEMU,Daily
+2015-16,71,15601/15602,Silchar,New Delhi,Poorvottar Sampark Kranti Express,Weekly
+2015-16,72,15623/15624,Bhagat Ki Kothi,Kamakhya,Express,Weekly
+2015-16,73,75713/75714,Siliguri,New Cooch Behar,DEMU,Daily
+2015-16,74,12529/12530,Patliputra,Lucknow,Express,Tri-weekly
+2015-16,75,64553/64554,Moradabad,Anand Vihar(T),MEMU,Daily
+2015-16,76,64555/64556,Anand Vihar(T),Meerut City,MEMU,Daily
+2016-17,1,75233/75234,Raxaul,Sitamarhi,DEMU,Daily
+2016-17,2,12049/12050,H. Nizamuddin,Agra Cantt,Gatimaan Express,6-Days a Week
+2016-17,3,73451/73452,Jamalpur,Tilrath,DEMU,Daily
+2016-17,4,73453/73454,Jamalpur,Tilrath,DEMU,Daily
+2016-17,5,73461/73462,Jamalpur,Khagaria,DEMU,Daily
+2016-17,6,12503/12504,Kamakhya,New Delhi,Humsafar Express,Weekly
+2016-17,7,22419/22420,Anand Vihar(T),Ghazipur City,Suhaildev Express,Tri-Weekly
+2016-17,8,74617/74618,Budgam,Baramula,DEMU,6-Days a Week
+2016-17,9,74619/74620,Banihal,Baramula,DEMU,6-Days a Week
+2016-17,10,12493/12494,H. Nizamuddin,Pune,AC Express,Weekly
+2016-17,11,54764/54763,Sri ganganagar,Sadulpur,Passenger,Daily
+2016-17,12,15655/15656,Kamakhya,Katra,Express,Weekly
+2016-17,13,55665/55666,Silchar,Jiribam,Passenger,Daily
+2016-17,14,55667/55668,Silchar,Bhairabi,Passenger,Daily
+2016-17,15,14009/14010,Anand Vihar(T),Bapudham Motihari,Champaran Satyagrah Express,Weekly
+2016-17,16,12795/12796,Secunderabad,Vijayawada,Express,6-Days a Week
+2016-17,17,25657/25658,Silchar,Sealdah,Kanchan Kanya Express,NA
+2016-17,18,13205/13206,Danapur,Saharsa,Janaki Express,Daily
+2016-17,19,74019/74020,Jind,Sonipat,DEMU,6-Days a Week
+2016-17,20,63213/63214,Patna,Ara,MEMU,Daily
+2016-17,21,19311/19312,Indore,Pune,Express,Bi-Weekly
+2016-17,22,19331/19332,Indore,Kochuveli,Express,Weekly
+2016-17,23,79313/79314,Indore,Mhow,DEMU,Daily
+2016-17,24,79315/79316,Indore,Mhow,DEMU,Daily
+2016-17,25,79317/79318,Indore,Mhow,DEMU,Daily
+2016-17,26,79319/79320,Indore,Mhow,DEMU,Daily
+2016-17,27,79321/79322,Indore,Mhow,DEMU,Daily
+2016-17,28,79323/79324,Indore,Mhow,DEMU,Daily
+2016-17,29,79325/79326,Indore,Mhow,DEMU,Daily
+2016-17,30,14101/14102,Kanpur,Prayag,Express,Daily
+2016-17,31,75115/75116,Ghazipur,Prayag,DEMU,Daily
+2016-17,32,17215/17216,Vijayawada,Dharmavaram,Express,Tri-Weekly
+2016-17,33,14019/14020,Anand Vihar(T),Agartala,Tripura Sundari Express,Weekly
+2016-17,34,11083/11084,Lokmanya Tilak (T),Kazipet,Tadoba Express,Weekly
+2016-17,35,11307/11308,Hyderabad,Gulbarga,Express,Daily
+2016-17,36,15059/15060,Lalkua Jn,Anand Vihar(T),Express,Bi-Weekly
+2016-17,37,14605/14606,Jammu Tawi,Haridwar,Express,Weekly
+2016-17,38,15009/15010,Gomtinagar,Gorakhpur,Express,Daily
+2016-17,39,77401/77402,Yerraguntla,Banaganapalli,Passenger,Daily
+2016-17,40,77403/77404,Yerraguntla,Banaganapalli,DEMU,Daily
+2016-17,41,11801/11802,Jhansi,Etawah,NA,6-Days a Week
+2016-17,42,21801/21802,Indore,Jhansi,Express,4-Days a Week
+2016-17,43,59549/59550,Vadodara,Ahmedabad,Passenger,Daily
+2016-17,44,59559/59560,Ahmedabad,Vadodara,Passenger,Daily
+2016-17,45,25255,Darjeeling,Ghum,Passenger,Daily
+2016-17,46,53451/53452,Hansdiha,Dumka,Passenger,Daily
+2016-17,47,15967/15968,Rangiya,Dibrugarh,Express,Tri-Weekly
+2016-17,48,55663/55664,Agartala,Silchar,Passenger,Daily
+2016-17,49,55675/55676,Agartala,Dharmanagar,Passenger,Daily
+2016-17,50,55677/55678,Silchar,Dharmanagar,Passenger,Daily
+2016-17,51,55679/55680,Agartala,Dharmanagar,Passenger,Daily
+2016-17,52,55773/55774,Katihar,Teznarayanpur,DEMU,Daily
+2016-17,53,55893/55894,Rangiya,Rangapara North,Passenger,Daily
+2016-17,54,55895/55896,Rangiya,Murkongselek,Passenger,6-Days a Week
+2016-17,55,75901/75902,Tinsukia,Ledo,DEMU,Daily
+2016-17,56,75903/75904,Dibrugarh Town,Tinsukia,DEMU,Daily
+2016-17,57,75907/75908,Dibrugarh Town,Ledo,DEMU,Daily
+2016-17,58,75909/75910,Dibrugarh Town,Dangari,DEMU,Daily
+2016-17,59,75911/75912,Tinsukia,Ledo,DEMU,Daily
+2016-17,60,75905/75906,Dibrugarh Town,Ledo,DEMU,Daily
+2016-17,61,51703/51704,Jabalpur,Sukrimangla,Passenger,Daily
+2016-17,62,51705/51706,Jabalpur,Sukrimangla,Passenger,Daily
+2016-17,63,22837/22838,Hatia,Ernakulam,AC Express,Weekly
+2016-17,64,63203/63204,Kiul,Mokama,MEMU,Daily
+2016-17,65,22427/22428,Anand Vihar(T),Ballia,Bhrigu Express,Weekly
+2016-17,66,15069/15070,Gorakhpur,Badshahnagar,Express,Daily
+2016-17,67,55661/55662,Karimganj,Maishashan,Passenger,6-Days a Week
+2016-17,68,55685/55686,Silchar,Maishashan,Passenger,6-Days a Week
+2016-17,69,22323/22324,Kolkata,Ghazipur City,Shabd Bhedi Express,Weekly
+2016-17,70,14117/14118,Allahabad,Basti,Manwar Sangam Express,NA
+2016-17,71,11901/11902,Mathura,Kurukshetra,Gita Jayanti Express,Five days a week
+2016-17,72,55361/55362,Izzatnagar,Pilibhit,Passenger,Daily
+2016-17,73,55363/55366,Izzatnagar,Pilibhit,Passenger,Daily
+2016-17,74,55367/55368,Izzatnagar,Pilibhit,Passenger,Daily
+2016-17,75,55369/55370,Izzatnagar,Pilibhit,Passenger,Daily
+2016-17,76,55364/55365,Bareilly City,Pilibhit,Passenger,Daily
+2016-17,77,12571/12572,Gorakhpur,Anand Vihar(T),Humsafar Express,Weekly
+2016-17,78,12595/12596,Gorakhpur,Anand Vihar(T),Humsafar Express,Tri-Weekly
+2016-17,79,15063/15064,Gorakhpur,Lokmanya Tilak (T),Express,Weekly
+2016-17,80,15065/15066,Gorakhpur,Panvel,Express,NA
+2016-17,81,15067/15068,Gorakhpur,Bandra (T),Express,Weekly
+2016-17,82,13121/13122,Kolkata,Ghazipur City,Express,Weekly
+2016-17,83,78826/78827,Dallirajahara,Durg,DEMU,Daily
+2016-17,84,12503/12504,Kamakhya,Bangalore Cantt.,Humsafar Express,Bi-Weekly
+2016-17,85,17021/17022,Hyderabad,Vasco Da Gama,Express,Weekly
+2016-17,86,17419/17420,Tirupati,Vasco Da Gama,Express,Weekly
+2016-17,87,22707/22708,Tirupati,Visakhapatnam,Double Decker Express,Weekly
+2016-17,88,57477/57478,Rayadurga,Kalyandurg,Passenger,Daily
+2016-17,89,55181/55182,Chhapra,Thawe,Passenger,Daily
+2016-17,90,55183/55184,Chhapra,Thawe,Passenger,Daily
+2016-17,91,16581/16582,Bangalore,Shivamogga Town,Express,Tri-Weekly
+2016-17,92,66535/66536,Bangalore,Ramanagaram,MEMU,6-Days a Week
+2016-17,93,66537/66538,Bangalore,Ramanagaram,MEMU,6-Days a Week
+2016-17,94,66539/66540,Bangalore,Ramanagaram,MEMU,6-Days a Week
+2016-17,95,66541/66542,Bangalore,Whitefield,MEMU,6-Days a Week
+2016-17,96,66543/66544,Bangalore,Kuppam,MEMU,6-Days a Week
+2016-17,97,22887/22888,Howrah,Yesvantpur,Humsafar Express,Weekly
+2016-17,98,55681/55682,Agartala,Belonia,Passenger,6-Days a Week
+2016-17,99,55683/55684,Agartala,Belonia,Passenger,6-Days a Week
+2016-17,100,22877/22878,Ernakulam,Howrah,Antyodaya Express,Weekly
+2016-17,101,22497/22498,Sri ganganagar,Tiruchchirappalli,Humsafar Express,Weekly
+2016-17,102,11309/11310,Solapur,Miraj,Express,Daily
+2016-17,103,22885/22886,Lokmanya Tilak (T),Tatanagar,Antyodaya Express,Bi-Weekly
+2016-17,104,71407/71408,Pune,Daund,DEMU,Daily
+2016-17,105,71409/71410,Pune,Daund,DEMU,Daily
+2016-17,106,77622/77623,Mahabubnagar,Jaklair,DEMU,Bi-Weekly
+2016-17,107,22679/22680,Yesvantpur,Hassan,Express,Daily
+2016-17,108,55371/55372,Pilibhit,Majhola Pakariya,Passenger,Daily
+2016-17,109,55373/55374,Pilibhit,Majhola Pakariya,Passenger,Daily
+2016-17,110,55375/55376,Pilibhit,Majhola Pakariya,Passenger,Daily
+2016-17,111,55687/55688,Silchar,Dullavcherra,Passenger,Daily
+2016-17,112,55689/55690,Badarpur,Dullavcherra,Passenger,Daily
+2017-18,1,56927/56928,Hubli,Chikkabenakal,Passenger,Daily
+2017-18,2,22989/22990,Mahuva,Bandra (T),Express,Weekly
+2017-18,3,22991/22992,Veraval,Bandra (T),Express,Weekly
+2017-18,4,22993/22994,Mahuva,Bandra (T),Express,Weekly
+2017-18,5,74029/74030,Jind,Sonipat,DEMU,6-Days a Week
+2017-18,6,22121/22122,Lokmanya Tilak (T),Lucknow,AC Express,Weekly
+2017-18,7,75723/75724,Guwahati,New Bongaigaon,DEMU,Daily
+2017-18,8,16575/16576,Yesvantpur,Mangalore,Gomoteshwara Express,Tri-Weekly
+2017-18,9,75727/75728,Guwahati,Haibargaon,DEMU,Daily
+2017-18,10,75729/75730,Guwahati,Silghat,DEMU,Daily
+2017-18,11,16791/16792,Punalur,Palakkad,Palaruvi Mail Express,Daily
+2017-18,12,19041/19042,Bandra (Terminus),Ghazipur City,Express,Weekly
+2017-18,13,22867/22868,Durg,H.Nizamuddin,Humsafar Express,Bi-Weekly
+2017-18,14,22143/22144,Mumbai Central,Bidar,Express,NA
+2017-18,15,12085/12086,Guwahati,Dibrugarh,Shatabdi Express,Tri-Weekly
+2017-18,16,19423/19424,Ahmedabad,Chennai Central,Humsafar Express,Weekly
+2017-18,17,12087/12088,Guwahati,Naharlagun,Shatabdi Express,Tri-Weekly
+2017-18,18,22117/22118,Pune,Amravati,AC Express,Weekly
+2017-18,19,22123/22124,Ajni,Pune,AC Express,Weekly
+2017-18,20,22125/22126,Nagpur,Amritsar,AC Express,Weekly
+2017-18,21,53375/53376,Barkakana,Sidhwar,Passenger,Daily
+2017-18,22,22119/22120,Mumbai Central,Karmali,Tejas Express,5-Days a Week
+2017-18,23,17323/17324,Hubli,Varanasi,Express,Weekly
+2017-18,24,17325/17326,Hubli,Mysore,Express,Daily
+2017-18,25,20889/20890,Howrah,Vijayawada,Humsafar Express,Weekly
+2017-18,26,22705/22706,Tirupati,Jammu Tawi,Humsafar Express,Weekly
+2017-18,27,77405/77406,Cuddapah,Pendlimarri,DEMU,6-Days a Week
+2017-18,28,14021/14022,Delhi Sarai Rohilla,Sikar,Express,Tri-Weekly
+2017-18,29,59735/59736,Sikar,Fatehpur Shekhawati,Passenger,Daily
+2017-18,30,74849/74850,Ratangarh,Sadarshahar,DEMU,Daily
+2017-18,31,74851/74852,Ratangarh,Sadarshahar,DEMU,Daily
+2017-18,32,74853/74854,Ratangarh,Sadarshahar,DEMU,Daily
+2017-18,33,59735/59736,Jaipur,Phulera,Passenger,Daily
+2017-18,34,19305/19306,Indore,Guwahati,Express,Weekly
+2017-18,35,22163/22164,Bhopal,Khajuraho,Mahamana Express,Daily
+2017-18,36,22833/22834,Bhubaneswar,Krishnarajapuram,Humsafar Express,Weekly
+2017-18,37,59169/59170,Anand,Vadtal,Swami Narayan Passenger,Daily
+2017-18,38,58033/58034,Bokaro Steel City,Ranchi,Passenger,Daily
+2017-18,39,22147/22148,Dadar(T),Sai Nagar Shirdi,Express,Weekly
+2017-18,40,16793/16794,Rameswaram,Faizabad,Mail Express,Weekly
+2017-18,41,15549/15550,Patna,Jaynagar,Express,6-Days a Week
+2017-18,42,22165/22166,Bhopal,Singrauli,Express,Bi-Weekly
+2017-18,43,22167/22168,H. Nizamuddin,Singrauli,Express,Weekly
+2017-18,44,22433/22434,Anand Vihar(T),Ghazipur City,Express,Bi-Weekly
+2017-18,45,22913/22914,Bandra (Terminus),Patna,Humsafar Express,Weekly
+2017-18,46,22921/22922,Bandra (Terminus),Gorakhpur,Antyodaya Express,Weekly
+2017-18,47,75271/75272,Ara,Sasaram,DEMU,6-Days a Week
+2017-18,48,75273/75274,Ara,Sasaram,DEMU,6-Days a Week
+2017-18,49,78057/78058,Sonamukhi,Bankura,DEMU,5-Days a Week
+2017-18,50,78061,Masagram,Bankura,DEMU,Weekly
+2017-18,51,14611/14612,Katra,Ghazipur City,Express,Weekly
+2017-18,52,20903/20904,Vadodara,Varanasi,Mahamana Express,Weekly
+2017-18,53,15563/15564,Jaynagar,Udhana jn.,Antyodaya Express,Weekly
+2017-18,54,22151/22152,Pune,Kazipet,Express,Weekly
+2017-18,55,20501/20502,Agartala,Anand Vihar(T),Rajdhani Express,Weekly
+2017-18,56,66012,Tiruvallur,Chennai Central,MEMU,Daily
+2017-18,57,66053,Chennai Central,Tiruvallur,MEMU,Daily
+2017-18,58,55817/55818,New Bongaigaon,Guwahati,Passenger,NA
+2017-18,59,66051/66052,Chennai Central,Avadi,MEMU,Daily
+2017-18,60,75733/75734,Tejnarayanpur,Katihar,DEMU,Daily
+2017-18,61,75735/75736,Tejnarayanpur,Katihar,DEMU,Daily
+2017-18,62,75737/75738,Tejnarayanpur,Katihar,DEMU,Daily
+2017-18,63,75739/75740,Tejnarayanpur,Katihar,DEMU,Daily
+2017-18,64,75743/75744,Katihar,Siliguri,DEMU,Daily
+2017-18,65,75745/75746,Katihar,Jogbani,DEMU,Daily
+2017-18,66,75747/75748,Katihar,Barsoi,DEMU,Daily
+2017-18,67,75749/75750,Katihar,Teta,DEMU,Daily
+2017-18,68,20601/20602,Chennai Central,Madurai,AC Express,Weekly
+2017-18,69,13129/13130,Kolkata,Khulna,Bandhan Express,Weekly
+2017-18,70,51707/51708,Jabalpur,Nainpur,Passenger,Daily
+2017-18,71,14715/14716,Hisar,Haridwar,Express,Tri-Weekly
+2017-18,72,14717/17418,Bikaner,Haridwar,Express,Weekly
+2017-18,73,73463/73464,Jamalpur,Khagaria,DEMU,Daily
+2017-18,74,13169/13170,Sealdah,Saharsa,Express,Bi-Weekly
+2017-18,75,74857/74858,Sikar,Churu,DEMU,Daily
+2017-18,76,20901/20902,Bandra (Terminus),Ajmer,Express,Tri-Weekly
+2017-18,77,22901/22902,Bandra (Terminus),Udaipur City,Express,Tri-Weekly
+2017-18,78,74039/74040,Jind,Sonipat,DEMU,Daily
+2017-18,79,18801/18802,Korba,Raipur jn.,Hasdeo Express Mail Express,4-Days a Week
+2017-18,80,15611/15612,Silchar,Guwahati,Express,Tri-Weekly
+2017-18,81,78818,Raipur,Bhanupratappur,Passenger,Daily
+2017-18,82,19667/19668,Udaipur City,Mysore,Palace Queen Humsafar Express,Weekly
+2017-18,83,20817/20818,Bhubaneswar,New Delhi,Rajdhani Express,Weekly
+2017-18,84,55377/55378,Pilibhit,Tanakpur,Passenger,Daily
+2017-18,85,22985/22986,Udaipur City,Delhi Sarai Rohilla,Humsafar Express,Weekly
+2017-18,86,15125/15126,Manduadih,Patna,Express,Daily
+2018-19,1,52556,Siliguri,Rangtong,Passenger,Daily
+2018-19,2,54610,Amritsar,Jalandhar City,Passenger,Daily
+2018-19,3,78815,Raipur jn.,Bhanupratappur,Passenger,Daily
+2018-19,4,11065/11066,Mysore,Renigunta,Express,Weekly
+2018-19,5,11415/11416,Kolhapur,Bidar,Express,Weekly
+2018-19,6,11417/11418,Pune,Ajni,Humsafar Express,Weekly
+2018-19,7,11419/11420,Pune,Nagpur,Humsafar Express,Weekly
+2018-19,8,12089/12090,Yesvantpur,Shivamogga Town,Jan Shatabdi Express,6-Days a Week
+2018-19,9,12091/12092,Kathgodam,Dehradun,Doon-Naini Jan Shatabdi Express,5-Days a Week
+2018-19,10,12235/12236,Madhupur,Anand Vihar(T),Humsafar Express,Weekly
+2018-19,11,12751/12752,H.S Nanded,Jammu Tawi,Humsafar Express,Weekly
+2018-19,12,12753/12754,H.S Nanded,H.Nizamuddin,Marathwada Sampark Kranti Express,Weekly
+2018-19,13,13181/13182,Kolkata,Silghat,Express,Weekly
+2018-19,14,14261/14262,Lucknow,Pt. DD Upadhyaya Junction (Mughalsarai),Ekatmata Express,Bi-Weekly
+2018-19,15,14715/14716,Sri ganganagar,Sikar,Express,Tri-Weekly
+2018-19,16,14719/14720,Bikaner,Bilaspur,Antyodaya Express,Weekly
+2018-19,17,14815/14816,Bhagat Ki Kothi,Tambaram,Humsafar Express,Weekly
+2018-19,18,15071/15072,Lalkua Jn,Mau,Express,Bi-Weekly
+2018-19,19,15113/15114,Lucknow,Chhapra Kechery,Express,Tri-Weekly
+2018-19,20,15551/15552,Darbhanga,Varanasi,Antyodaya Express,Weekly
+2018-19,21,15625/15626,Agartala,Deoghar,Express,Weekly
+2018-19,22,15705/15706,Katihar,Delhi,Humsafar Express,Weekly
+2018-19,23,15907/15908,Tinsukia,Naharlagun,Express,5-Days a Week
+2018-19,24,15911/15912,Tinsukia,Naharlagun,Express,Weekly
+2018-19,25,15943/15944,Silchar,Dibrugarh,Express,Weekly
+2018-19,26,16101/16102,Chennai Egmore,Kollam,Express,Daily
+2018-19,27,16191/16192,Tambaram,Tirunelveli,Antyodaya Express,Daily
+2018-19,28,16319/16320,Kochuveli,Banaswadi,Humsafar Express,Bi-Weekly
+2018-19,29,16355/16356,Kochuveli,Mangalore,Antyodaya Express,Bi-Weekly
+2018-19,30,16541/16542,Yesvantpur,Pandharpur,Express,Weekly
+2018-19,31,16543/16544,Yesvantpur,Hubballi,Express,Weekly
+2018-19,32,16585/16586,Yesvantpur,Mangalore,Express,Tri-Weekly
+2018-19,33,17243/17244,Vijayawada,Rayagada,Express,Daily
+2018-19,34,18513/18514,Vishakhapatnam town,Kirandul,Express,Daily
+2018-19,35,18633/18634,Ranchi,Patna,AC Express,Weekly
+2018-19,36,18639/18640,Ranchi,Ara,Express,Weekly
+2018-19,37,18801/18802,Korba,Raipur,Express,Tri-Weekly
+2018-19,38,18803/18804,Korba,Raipur,Hasdeo Express Mail Express,Tri-Weekly
+2018-19,39,19003/19004,Bandra (Terminus),Bhusawal,Express,Weekly
+2018-19,40,19043/19044,Bandra (Terminus),Bhagat Ki Kothi,Humsafar Express,Weekly
+2018-19,41,19203/19204,Bhavnagar,Gandhidham,Express,Daily
+2018-19,42,19315/19316,Indore,Lingampalli,Humsafar Express,Weekly
+2018-19,43,19317/19318,Indore,Puri,Humsafar Express,Weekly
+2018-19,44,19319/19320,Indore,Veraval,Mahamana Express,Weekly
+2018-19,45,19333/19334,Indore,Bikaner,Mahamana Express,Weekly
+2018-19,46,19335/19336,Indore,Gandhidham,Express,Weekly
+2018-19,47,19337/19338,Indore,Delhi Sarai Rohilla,Express,Weekly
+2018-19,48,19423/19424,Gandhidham,Tirunelveli,Humsafar Express,Weekly
+2018-19,49,19603/19604,Ajmer,Rameswaram,Humsafar Express,Weekly
+2018-19,50,19663/19664,Khajuraho,Indore,Express,4-Days a Week
+2018-19,51,19669/19670,Udaipur City,Patliputra,Humsafar Express,Weekly
+2018-19,52,20821/20822,Santragachi,Pune,Humsafar Express,Weekly
+2018-19,53,20827/20828,Santragachi,Jabalpur,Humsafar Express,Weekly
+2018-19,54,20905/20906,Vadodara,Rewa,Mahamana Express,Weekly
+2018-19,55,22139/22140,Pune,Ajni,Humsafar Express,Weekly
+2018-19,56,22169/22170,Habibganj,Santragachi,Humsafar Express,Weekly
+2018-19,57,22171/22172,Habibganj,Pune,Humsafar Express,Weekly
+2018-19,58,22221/22222,Mumbai Central,H.Nizamuddin,Rajdhani Express,Bi-Weekly
+2018-19,59,22317/22318,Sealdah,Jammu Tawi,Humsafar Express,Weekly
+2018-19,60,22353/22354,Patna,Banaswadi,Humsafar Express,Weekly
+2018-19,61,22435/22436,New Delhi,Varanasi,Vande Bharat Express,5-Days a Week
+2018-19,62,22437/22438,Allahabad,Anand Vihar(T),Humsafar Express,Tri-Weekly
+2018-19,63,22551/22552,Darbhanga,Jalandhar City,Antyodaya Express,Weekly
+2018-19,64,22657/22658,Tambaram,Nagercoil,Express,Tri-Weekly
+2018-19,65,22665/22666,Bangalore,Coimbatore,UDAY Express,6-Days a Week
+2018-19,66,22671/22672,Chennai Egmore,Madurai,Tejas Express,6-Days a Week
+2018-19,67,22841/22842,Santragachi,Chennai Central,Antyodaya Express,Weekly
+2018-19,68,22895/22896,Durg,Firozpur,Antyodaya Express,Weekly
+2018-19,69,22923/22924,Bandra (Terminus),Jamnagar,Humsafar Express,Tri-Weekly
+2018-19,70,22987/22988,Ajmer jn.,Agra fort,Express,Daily
+2018-19,71,22997/22998,Jhalawar City,Sri Ganganagar,Express,Tri-Weekly
+2018-19,72,51709/51710,Nainpur,Chiraidongri,Passenger,Daily
+2018-19,73,51711/51712,Nainpur,Chiraidongri,Passenger,Daily
+2018-19,74,51713/51714,Nainpur,Chiraidongri,Passenger,Daily
+2018-19,75,55061/55062,Lucknow,Sitapur,Passenger,Daily
+2018-19,76,55063/55064,Daliganj,Sitapur,Passenger,Daily
+2018-19,77,55065/55066,Lucknow,Sitapur,Passenger,Daily
+2018-19,78,55501/55502,Saharsa,Garh Baruari,Passenger,Daily
+2018-19,79,55511/55512,Saharsa,Barahara Kothi,Passenger,Daily
+2018-19,80,55585/55586,Raxaul,Narkatiaganj,Passenger,Daily
+2018-19,81,55587/55588,Raxaul,Narkatiaganj,Passenger,Daily
+2018-19,82,58119/58120,Itwari,Kelod,Passenger,Daily
+2018-19,83,58121/58122,Itwari,Kelod,Passenger,Daily
+2018-19,84,58305/58306,Balangir,Bhainsapalli,Passenger,Daily
+2018-19,85,58307/58308,Balangir,Bhainsapalli,Passenger,Daily
+2018-19,86,58819/58820,Gondia,Samnapur,Passenger,Daily
+2018-19,87,61015/61016,Diva,Pen,MEMU,Daily
+2018-19,88,61017/61018,Diva,Panvel,MEMU,Daily
+2018-19,89,61019/61020,Diva,Pen,MEMU,Daily
+2018-19,90,61021/61022,Diva,Vasai Road,MEMU,Daily
+2018-19,91,61633/61634,Bhopal,Bina,MEMU,Daily
+2018-19,92,63229/63230,Buxar,Varanasi,MEMU,Daily
+2018-19,93,63297/63298,Varanasi,Ballia,MEMU,Daily
+2018-19,94,66055/66056,Nellore,Chennai Moor Market Complex,MEMU,5-Days a Week
+2018-19,95,69177/69178,Udhna,Nandurbar,MEMU,Daily
+2018-19,96,69179/69180,Udhna,Paldhi,MEMU,Daily
+2018-19,97,73041/73042,Katwa,Ahmedpur,DEMU,6-Days a Week
+2018-19,98,74859/74860,Sikar,Churu,DEMU,Daily
+2018-19,99,74861/74862,Sikar,Churu,DEMU,Daily
+2018-19,100,75017/75018,Gonda,Bahraich,DEMU,Daily
+2018-19,101,75019/75020,Gonda,Bahraich,DEMU,Daily
+2018-19,102,75021/75022,Gonda,Bahraich,DEMU,Daily
+2018-19,103,75215/75216,Sugauli,Patliputra,DEMU,Daily
+2018-19,104,76901/76902,Bagalkot,Khajjidoni,DEMU,5-Days a Week
+2018-19,105,78029/78030,Tatanagar,Badampahar,DEMU,6-Days a Week
+2018-19,106,78031/78032,Tatanagar,Badampahar,DEMU,Daily
+2018-19,107,78831/78832,Gondia,Samnapur,DEMU,Daily
+2018-19,108,79601/79602,Ajmer,Jaipur,DEMU,6-Days a Week
+2018-19,109,22139/22140,PUNE,AJNI,Humsafar Express,Weekly
